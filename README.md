@@ -17,4 +17,12 @@
 `Design and Construction`
 
 ## Chapter 2 - Circle of Life
+```
+An XP project succeeds when the customers select business value to be implmented, based on the team's seasured ability to deliver functionality over time
+```
+
+define -> estimate -> choose -> build -> repeate
+
+## Chapter 3 - On-site Customer
+
 
