@@ -17,16 +17,16 @@
 `Design and Construction`
 
 ## Chapter 2 - Circle of Life
-```
+`
 An XP project succeeds when the customers select business value to be implmented, based on the team's seasured ability to deliver functionality over time
-```
+`
 
 define -> estimate -> choose -> build -> repeate
 
 ## Chapter 3 - On-site Customer
-```
+`
 An XP project needs a full-time ustomer to provide guidance.
-```
+`
 - Requirements - User stories
 - Communication is the key
 
@@ -38,4 +38,7 @@ An XP project needs a full-time ustomer to provide guidance.
   - deliver frequently to the customer 
   - expect missunderstanding and prepare for them
 
-##Chapter 4 - User Stories
+## Chapter 4 - User Stories
+`Define requirements with stories written on cards.`
+
+## Chapter 5 - Acceptance Tests
