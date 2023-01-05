@@ -42,3 +42,9 @@ An XP project needs a full-time ustomer to provide guidance.
 `Define requirements with stories written on cards.`
 
 ## Chapter 5 - Acceptance Tests
+`Surely you aren't going to assume you're what you need. Prove that it works! Acceptance tests allow the customer to know the system works, and tell the programmer what needs to be done.`
+
+- Automating the tests
+- Timeliness
+
+## Chapter 6 - Story Estimation
