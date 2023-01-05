@@ -48,3 +48,9 @@ An XP project needs a full-time ustomer to provide guidance.
 - Timeliness
 
 ## Chapter 6 - Story Estimation
+`Customers need to know how much stories will cost, in order to choose which ones to do and which to defer. Programmers evaluate stories to provide that information.`
+
+- estimate by comparison
+- early on, start with intuitive estimates
+- spike solutions
+
