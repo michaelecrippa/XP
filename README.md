@@ -54,3 +54,18 @@ An XP project needs a full-time ustomer to provide guidance.
 - early on, start with intuitive estimates
 - spike solutions
 
+
+### Sense of completion
+`XP's nested planning and programming cycles keep the project on track and provide a healthy sense of accomplishment at frequent intevals`
+
+- Programmers set the rhythm
+
+### Chapter 7 - Small Releases
+`The outermost XP cycle is the release. Small and frequent releases provide early benefit to the customer while providing early feedback to the prоgrammers.`
+
+- All or nothing
+- Personnel system
+- Tax package
+- Distributed manufacturing control system
+- Air traffic control system
+ 
