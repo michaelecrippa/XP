@@ -68,4 +68,8 @@ An XP project needs a full-time ustomer to provide guidance.
 - Tax package
 - Distributed manufacturing control system
 - Air traffic control system
- 
+
+### Chapter 8 - Customer Defines Release
+`In each release cycle, the customer controls scope, deciding what to do and what to defer, to provide the best possible release by the due date. Work fits into the calendar, based on business value, difficulty and the team's implmentation velocity`
+
+### Chapter 9 - Iteration Planning
