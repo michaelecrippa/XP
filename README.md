@@ -73,3 +73,24 @@ An XP project needs a full-time ustomer to provide guidance.
 `In each release cycle, the customer controls scope, deciding what to do and what to defer, to provide the best possible release by the due date. Work fits into the calendar, based on business value, difficulty and the team's implmentation velocity`
 
 ### Chapter 9 - Iteration Planning
+`Inside each release, an Extreme team plans just a few weeks at a time, with clear objectives and solid estimates`
+
+- The planning meeting
+  - Customer presents User Stories
+  - Team braninstorms ENgineering Tasks
+  - Programmers sign up for work and estimate
+
+- Customer presents User Stories  
+`The customer presents the user stories to ensure that the team understands what is to be done. The most effective way to understand a requirement is to discuss it`
+
+- Team brainstorms Engineering Tasks
+`The team brainstorms the engineering tasks to build a common pictue of the system design, down to the detail necessary to implment the stories. This step often allows the customer to see places where the programmers don't understand the story at all. Observing the design process builds common knowledge and confidence throughout the team.`
+
+- Programmer signs up for work and estimates
+`Programmers sign up for work to allow individuals or pairs to accept the primary responsibility for completion of specific work. The team does not force assignments to anyone, although someone signing up may ask for help from anyone, and will receive it. 
+Programmers esimate their own work to provide the most accurate possible prediction of what will be accomplished. In addition, programmers feel more commitment to work which is scheduled for completion in a time they can believe in.`
+
+- Sign up for stories
+- An Iteration Planning Practice
+
+### Chapter 10 - Quick Design Session
