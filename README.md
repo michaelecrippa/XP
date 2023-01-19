@@ -94,3 +94,21 @@ Programmers esimate their own work to provide the most accurate possible predict
 - An Iteration Planning Practice
 
 ### Chapter 10 - Quick Design Session
+`Within each iteration, programmers don't stand alone.`
+
+### Chapter 11 - Programming
+`It's called XP after all.`
+
+- Collective Code Ownership
+`I'm not afraid to change my own code. And it's all my own code.`
+- Simple Design
+`SImplicity is more complicated than you think, but it's well worth it.`
+- Refactoring
+`We keep the code simple at all the time. This minimizes investemnt in excess framework and support code. We retain the neccessary flexibility through refactoring.`
+- Continuous Integration 
+`Ìntegration is a bear, we can't put it off forever, let's do it all the time instead.`
+- Coding Standard 
+`I can always read my own code, but it's all my own code.`
+- 40-Hour Week
+
+
