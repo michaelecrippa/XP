@@ -99,16 +99,20 @@ Programmers esimate their own work to provide the most accurate possible predict
 ### Chapter 11 - Programming
 `It's called XP after all.`
 
-- Collective Code Ownership
+- Collective Code Ownership  
 `I'm not afraid to change my own code. And it's all my own code.`
-- Simple Design
+- Simple Design  
 `SImplicity is more complicated than you think, but it's well worth it.`
-- Refactoring
+- Refactoring  
 `We keep the code simple at all the time. This minimizes investemnt in excess framework and support code. We retain the neccessary flexibility through refactoring.`
-- Continuous Integration 
+- Continuous Integration   
 `Ìntegration is a bear, we can't put it off forever, let's do it all the time instead.`
-- Coding Standard 
+- Coding Standard   
 `I can always read my own code, but it's all my own code.`
 - 40-Hour Week
+
+Chapter 12 - Pair Programming  
+`On an XP team, two programmers sitting together at the same machine write all production code.`
+
 
 
