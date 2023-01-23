@@ -111,8 +111,33 @@ Programmers esimate their own work to provide the most accurate possible predict
 `I can always read my own code, but it's all my own code.`
 - 40-Hour Week
 
-Chapter 12 - Pair Programming  
-`On an XP team, two programmers sitting together at the same machine write all production code.`
+### Chapter 12 - Pair Programming  
+`On an XP team, two programmers sitting together at the same machine write all production code.`  
 
+### Chapter 12 - Unit Tests
+`XP test everything that could possible break, using automated tests that must run perfectly al the time.`
 
-
+ - Summary of testing steps  
+- Testing questions
+  - How do you test when you have an attached database?
+  - What if your tests run really slowly?  
+  - What if you can't figure out how to test a class?  
+  - Is it OK to test a class by just testing the classes that use it?  
+  - How do you know you have tested everything that could possibly break?
+  - What do you do if you have a body already-written code, but not many tests?
+  - What about errors that only show up in collaboration between classes?
+  - What about real-time and multithreading errors?
+  - What about GUIs?
+  - My stuff can't be tested because ...
+### Chapter 14 - Test-first, by Intention
+`Code what you want, not how to do it. Always to to express intention in code rather than algorithm.`
+### Chapter 15 - Releasing Changes
+`Using collecitve code ownership and coprehensive unit tests, an XP team releases changes rapidly and reliably` 
+ - Code management tools
+ - Troubleshooting
+ - Lots of conflicting edits
+ - Lost changes
+ - Conclusion
+ ### Chapter 16 - Do or Do Not
+ `We've now covered most of the programming aspects of XP. Here's a summary f things we do - and things we don't.`
+ 
