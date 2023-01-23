@@ -139,5 +139,19 @@ Programmers esimate their own work to provide the most accurate possible predict
  - Lost changes
  - Conclusion
  ### Chapter 16 - Do or Do Not
- `We've now covered most of the programming aspects of XP. Here's a summary f things we do - and things we don't.`
- 
+ `We've now covered most of the programming aspects of XP. Here's a summary of things we do - and things we don't.`
+
+ ### Chapter 17 - Experience improves estimates  
+ `Each iteration we gain experience. Experience with stories helps us estimate future stories more easily and more accurately.`
+
+### Chapter 18 - Resource, Scope, Quality, Time
+`Who's doing what? How much is finished? How good is it? When will we be done? What metrics should we keep?`
+- Resources
+- Scope
+- Quality
+- Time
+- Tracking and Reporting Scope
+- Tracking and Reporting Quality
+- Other metrics?
+- You can't resist, can you?
+
