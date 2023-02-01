@@ -155,3 +155,13 @@ Programmers esimate their own work to provide the most accurate possible predict
 - Other metrics?
 - You can't resist, can you?
 
+### Chapter 19 - Steering
+`The estimates are wrong, priorities change, you must steer`
+
+### Chapter 20 - Steering the Iteration
+`To steer each iteration, you need to track sotries getting done, and how well the task estimates are holding up`
+ - Get stories done
+ - Improve estimates
+ - Tracking
+ - Benefits of Tracking
+ 
