@@ -164,4 +164,53 @@ Programmers esimate their own work to provide the most accurate possible predict
  - Improve estimates
  - Tracking
  - Benefits of Tracking
- 
+
+### Chapter 21 - Steering the Release  
+`To steer the release, you need to track what's done, how fats you are going, and how well the system works.`
+
+### Chapter 22 - Handling Defects  
+`Report then, schedule them, tests and fix them, avoid them. Just don't call them bugs.`
+ - Reporting Problems
+ - Scheduling Corrections
+ - Test and Fix the Problems  
+ - Preventing Defects
+
+ ### Chapter 23 - Conclusion
+  - Key practices
+
+### Chapter 24 - We'll try
+`This can be the saddest words a programmer has ever spoken, and most of us have spoken them more than once. We've covered this material in other forms already, but it bears repeating here`
+
+ - It couldn't be that easy!
+ - What if you don't have all the stories?
+ - How do you get setimates?  
+ - How do you explain velocity?  
+ - We can't tell management our real estimates!
+ - This can't possibly work
+ - Not with my management!
+
+ ### Chapter 25 - How to estimate anything
+ `Sometimes estimating stories seems scary. Keep your heads, stick together, and break the story down into samll parts. You'll be surprised what you can do.`
+
+ ### Chapter 26 - Infrastructure
+ `What about that databse you need to build first? What about that framework? What about that syntax directrd command compiler? Get over it!`
+
+### Chapter 27 - It's Chet's Fault
+`Are you looking for someone to blame? This chapter explain how to know whose fault it is.Now move on and solve your problems.`  
+
+### Chapter 28 - Balancing Hopes and Fears
+
+### Chapter 29 - XPer Tries Java
+`After the C3 project ended most of the team was transferred to work on the HR intranet. I found how there were using the principles of XP to improve their lives on a new project heartening. What follows is a description of how ex C3er and deveted XPer is introducting testing and moder development tools into an environment where none existed.`
+
+### Chapter 30 - A Java Perspective
+
+### Chapter 33 - Estimates and Promises
+`We estiate how long the project will take. We promise to tell the truth about how we're doing.`
+ - Estimate the enitre project as accurately as possible
+ - Track estimates to get project velocity
+ - Refine the pictre
+ - Control the outcome
+
+### Chapter 34- Everything that could possible break
+`Tests everything that could possibly break.`  
